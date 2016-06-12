@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: manooweb <ehesry@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Copyright (C) 2015 the WebOLead team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid "simply install WebOLead script on your website."
+msgstr "Installez simplement le script WebOLead sur votre site web."
+
+msgid "WebOLead Settings"
+msgstr "Paramètres de WebOLead"
+
+msgid "Enter your WebOLead site Id here."
+msgstr "Renseignez l'identifiant WebOLead de votre site"
+
+msgid "WebOLead site id :"
+msgstr "Id WebOLead de votre site :"
+
+msgid "WebOLead script example"
+msgstr "Exemple de script WebOLead"
+
+msgid "You can find WebOLead site id in WebOLead script as in this example below"
+msgstr "Vous pouvez retrouver l'identifiant WebOLead de votre site dans le script WebOLead comme dans l'exemple ci-dessous"
+
+msgid "WebOLead site id must be numeric"
+msgstr "L'identifiant WebOlead du site doit être un nombre"
+
+msgid "WebOLead site id is updated"
+msgstr "L'identifiant WebOlead du site a bien été enregistré"
+
+msgid "Save settings"
+msgstr "Enregistrer"
+
