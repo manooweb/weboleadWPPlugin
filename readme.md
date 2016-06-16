@@ -1,4 +1,4 @@
-## WebOLead ##
+## WebOLead WordPress Plugin ##
 
 Contributors: manooweb
 
@@ -28,12 +28,11 @@ This is the official plugin for simply installing WebOLead script on your websit
 1. Activate the WebOLead plugin through the 'Plugins' screen in WordPress
 1. Configure the plugin by going to the `WebOLead` menu that appears in your admin menu
 
-## Frequently Asked Questions ##
-
-## Screenshots ##
-1. Simply put WebOLead ID in the configuration WebOLead plugin page
-
 ## Changelog ##
 
 ### 1.0.0 ###
 * First release
+
+## More informations on WebOLead ##
+
+Website : http://www.webolead.com 
